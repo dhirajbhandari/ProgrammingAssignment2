@@ -1,6 +1,6 @@
 #Test for cache matrix
 
-source('../testsuite.R')
+source('testsuite.R')
 
 cacheMatrixTestSuite <- function() {
   
